@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://exodus0315.github.io/</loc>
-    <lastmod>2022-02-26T19:22:57+09:00</lastmod>
+    <lastmod>2022-02-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://exodus0315.github.io/tags/first/</loc>
-    <lastmod>2022-02-26T19:22:57+09:00</lastmod>
+    <loc>https://exodus0315.github.io/posts/first-post/</loc>
+    <lastmod>2022-02-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://exodus0315.github.io/tags/</loc>
-    <lastmod>2022-02-26T19:22:57+09:00</lastmod>
+    <loc>https://exodus0315.github.io/posts/</loc>
+    <lastmod>2022-02-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://exodus0315.github.io/test/</loc>
-    <lastmod>2022-02-26T19:22:57+09:00</lastmod>
+    <loc>https://exodus0315.github.io/about/</loc>
+  </url><url>
+    <loc>https://exodus0315.github.io/archives/</loc>
   </url><url>
     <loc>https://exodus0315.github.io/categories/</loc>
+  </url><url>
+    <loc>https://exodus0315.github.io/search/</loc>
+  </url><url>
+    <loc>https://exodus0315.github.io/tags/</loc>
   </url>
 </urlset>
