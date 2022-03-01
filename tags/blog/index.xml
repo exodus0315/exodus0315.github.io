@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Developer GK</title>
-    <link>https://exodus0315.github.io/</link>
-    <description>Recent content on Developer GK</description>
+    <title>Blog on Developer GK</title>
+    <link>https://exodus0315.github.io/tags/blog/</link>
+    <description>Recent content in Blog on Developer GK</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://exodus0315.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://exodus0315.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Github Blog Customizing (Category, Deploy, Comments)</title>
       <link>https://exodus0315.github.io/posts/hugo-blog-papermod-customize-a/</link>
@@ -49,33 +49,6 @@ Theme : PaperMod
  많은 정적 사이트 생성기(SSG, Static Site Generator)이 있지만 저는 Hugo를 활용하기로 마음먹었습니다.
 많은 이유들이 있겠지만 빠르고, ruby보다는 go라는 언어에 대해 관심도 좀 더 있었고, Jamstack Site Generators에서 많은 별점도 받고 있었습니다.</description>
     </item>
-    
-    <item>
-      <title>My 1st post</title>
-      <link>https://exodus0315.github.io/posts/first-post/</link>
-      <pubDate>Sat, 26 Feb 2022 23:00:00 +0900</pubDate>
-      
-      <guid>https://exodus0315.github.io/posts/first-post/</guid>
-      <description>제 블로그의 첫번째 글입니다.
-비전공자, 비개발자, 30살이 넘어서 시작하는 입장이기에 더 많이 어렵습니다.
-기초도 없고, 주변에 물어볼 사람도 없고, 길이 뚜렷하기 않기에 많은 시행착오를 겪고 있습니다.
-그러다보니 많은 검색을 했고, 많은 분들에게 많은 도움을 받았습니다.
-제가 배웠던, 제가 경험했던, 제가 정리하고 싶은 글들을 자주 올려서 많은 분들에게 도움이 되기 위해 블로그를 만들었습니다.
-앞으로 꾸준히 활동하고자 합니다.
-많은 분들이 상상하는대로 모든 일들이 잘 이루어졌으면 좋겠습니다.</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://exodus0315.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://exodus0315.github.io/about/</guid>
-      <description>Hello, Thank you for visiting.
-The page is still being prepared.</description>
-    </item>
-    
-    
     
   </channel>
 </rss>

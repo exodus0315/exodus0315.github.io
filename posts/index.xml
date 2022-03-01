@@ -5,7 +5,20 @@
     <link>https://exodus0315.github.io/posts/</link>
     <description>Recent content in Posts on Developer GK</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 28 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://exodus0315.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://exodus0315.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Github Blog Customizing (Category, Deploy, Comments)</title>
+      <link>https://exodus0315.github.io/posts/hugo-blog-papermod-customize-a/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://exodus0315.github.io/posts/hugo-blog-papermod-customize-a/</guid>
+      <description>Github Hugo Blog 를 만들면서 설정했던 많은 것들을 공유하고자 합니다.
+Hugo는 Go언어(golang)로 만들어진 것으로, 저는 고 언어에 대해 거의 모르는 상태에서 진행한 것들입니다.
+제 개인적인 여러 실험, 시행착오들로 결과를 만들어낸 것이기에 더 좋은 방법이 있을수도 있다는 것만 감안해주세요.
+ 카테고리 설정하기 (Setting the category) 처음 블로그를 세팅하면 기본적으로 Tags, Categories가 있지만, 아마 다른 것들도 많이 활용하고 싶으실겁니다.
+저는 자기소개(About Me), 모든 글 보기(Posts), 기간 순으로 글 보기(Archive), 태그(Tags), 검색(Search)를 써보겠습니다.</description>
+    </item>
+    
     <item>
       <title>Github Blog 만드는 중 발생한 에러 경험 (Hugo, PaperMod)</title>
       <link>https://exodus0315.github.io/posts/hugo-blog-papermod-install-error/</link>
